@@ -1,0 +1,87 @@
+xterm*savelines: 16384
+
+
+xterm*termName: xterm-256color
+! special
+
+xterm*background:   #090300
+xterm*foreground:   #a5a2a2
+xterm*cursorColor:  #a5a2a2
+
+! black
+xterm*color0:       #090300
+xterm*color8:       #5c5855
+
+! red
+xterm*color1:       #791622
+xterm*color9:       #791622
+
+! green
+xterm*color2:       #015136
+xterm*color10:      #015136
+
+! yellow
+xterm*color3:       #cfc126
+xterm*color11:      #cfc126
+
+! blue
+xterm*color4:       #222e50
+xterm*color12:      #222e50
+
+! magenta
+xterm*color5:       #51294e
+xterm*color13:      #51294e
+
+! cyan
+xterm*color6:       #b5e4f4
+xterm*color14:      #b5e4f4
+
+! white
+xterm*color7:       #a5a2a2
+xterm*color15:      #f7f7f7
+
+xterm*faceName: Ubuntu Mono
+xterm*faceSize: 12
+xterm*renderFont: true
+
+xterm*metaSendsEscape: true
+xterm*eightBitInput: false
+
+! emacs colors
+emacs*foreground:   #a5a2a2
+emacs*background:   #090300
+emacs*cursorColor:  #a5a2a2
+
+! black
+emacs*color0:       #090300
+emacs*color8:       #5c5855
+
+! red
+emacs*color1:       #791622
+emacs*color9:       #791622
+
+! green
+emacs*color2:       #015136
+emacs*color10:      #015136
+
+! yellow
+emacs*color3:       #cfc126
+emacs*color11:      #cfc126
+
+! blue
+emacs*color4:       #222e50
+emacs*color12:      #222e50
+
+! magenta
+emacs*color5:       #51294e
+emacs*color13:      #51294e
+
+! cyan
+emacs*color6:       #b5e4f4
+emacs*color14:      #b5e4f4
+
+! white
+emacs*color7:       #a5a2a2
+emacs*color15:      #f7f7f7
+
+XTerm*selectToClipboard: true
